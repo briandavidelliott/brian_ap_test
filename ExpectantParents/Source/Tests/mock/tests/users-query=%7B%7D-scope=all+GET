@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Date: 2014-10-26T15:22:21-04:00
+Status: 200 OK
+Connection: close
+Content-Type: application/json; charset=utf-8
+Content-Length: 698
+
+[{"id":"testId","auth_token":"testAuthToken","baby_gender":"testBabyGender","baby_name":"testBabyName","changed_password":"testChangedPassword","country":"testCountry","due_date":"6987951982035243-04-15","email":"testEmail","favorites":["test",-1,["nested",{"nested":"hash"}]],"favorites_last_updated":"-146117075010-02-28T14:49:08.000-05:00","first_name":"testFirstName","last_name":"testLastName","opt_in":true,"password":"testPassword","provider":"testProvider","purchased":true,"role":"testRole","session_secret":"testSessionSecret","session_token":"testSessionToken","source_code":"testSourceCode","terms":true,"todos":["test",-1,["nested",{"nested":"hash"}]],"x_session_id":"testXSessionId"}]
